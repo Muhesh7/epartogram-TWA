@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">E-Partogram</string>
+    <string name="host_name">epartogram.captainirs.dev</string>
+    <string name="host_url">https://epartogram.captainirs.dev</string>
+    <string name="default_notification_channel_id" translatable="false">epartogram</string>
+    <string name="twa_offline_first_preferences_file_key">twa_offline_first_preferences</string>
+    <string name="twa_launched_successfully">twa_launched_succesfully</string>
+    <string name="asset_statements">
+        [{
+            \"relation\": [\"delegate_permission/common.handle_all_urls\"],
+            \"target\": {
+                \"namespace\": \"web\",
+                \"site\": \"https://epartogram.captainirs.dev\"}
+        }]
+    </string>
+</resources>
